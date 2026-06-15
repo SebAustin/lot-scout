@@ -23,6 +23,8 @@ tags:
 screenshot — Lot Scout reads it *locally* on a ~1.3B vision-language model and hands back
 the facts, the red flags, a fair-price estimate, and the questions to ask the seller.
 
+▶️ **[Watch the demo](https://huggingface.co/spaces/build-small-hackathon/lot-scout/resolve/main/assets/demo/lot-scout-demo.mp4)** · **Model:** openbmb/MiniCPM-V-4.6 (1.3B) · runs on-device, no cloud APIs
+
 > ⚠️ Estimate only — not financial or mechanical advice. AI-generated from a single listing; verify everything in person.
 
 ## 🎬 Demo
