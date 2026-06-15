@@ -1,0 +1,11 @@
+# Pinned to the stack proven on the official openbmb/MiniCPM-V-4.6-Demo Space (ZeroGPU).
+# MiniCPM-V 4.6 ships its modeling code via trust_remote_code, so transformers stays
+# at the demo's floor rather than the model card's newer >=5.7.0 native path.
+transformers>=4.44.0
+torch
+torchvision
+gradio==6.14.0
+spaces
+pillow
+accelerate
+sentencepiece
